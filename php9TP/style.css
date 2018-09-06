@@ -1,0 +1,23 @@
+table{
+    border-collapse:collapse;
+}
+th, td{
+    border:solid 1px black;
+    text-align:center;
+}
+th{
+    background-color:#808080;
+    color:white;
+    width:200px;
+}
+td{
+    height:100px;
+    vertical-align:top;
+    text-align:left;
+}
+div[id="displayDateSelect"], td{
+    color: black;
+}
+td {
+    background-color:#f9f9f9;
+}
